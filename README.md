@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Geeta1917/letcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Geeta1917/letcode/tree/master/0004-median-of-two-sorted-arrays) |
 ## Binary Search
 |  |
@@ -17,4 +18,8 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Geeta1917/letcode/tree/master/0007-reverse-integer) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Geeta1917/letcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
