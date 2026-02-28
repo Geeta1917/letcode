@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Geeta1917/letcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Geeta1917/letcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0073-set-matrix-zeroes](https://github.com/Geeta1917/letcode/tree/master/0073-set-matrix-zeroes) |
 ## Binary Search
 |  |
 | ------- |
@@ -22,4 +23,9 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Geeta1917/letcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Geeta1917/letcode/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Geeta1917/letcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
